@@ -1,0 +1,34 @@
+[
+    {
+        "id": 12313123,
+        "name": "Asep Sebastian",
+        "address": "Nagreg Bandung",
+        "gender": "P",
+        "date_birth": "1990-03-05",
+        "input_date": "2021-11-03T02:43:00+07:00"
+    },
+    {
+        "id": 213131,
+        "name": "Septian Putra",
+        "address": "Tasikmalaya",
+        "gender": "P",
+        "date_birth": "1999-05-03",
+        "input_date": "2022-01-23T01:11:00+07:00"
+    },
+    {
+        "id": 3422342,
+        "name": "Icha Alexandra",
+        "address": "Surabaya",
+        "gender": "W",
+        "date_birth": "2000-05-17",
+        "input_date": "2023-08-17T10:23:00+07:00"
+    },
+    {
+        "id": 355342,
+        "name": "Chia Krist",
+        "address": "Malang",
+        "gender": "W",
+        "date_birth": "2001-06-10",
+        "input_date": "2023-01-18T08:53:00+07:00"
+    }
+]
